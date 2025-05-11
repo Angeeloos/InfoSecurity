@@ -20,7 +20,7 @@ personal.
 <enclosure
 url= "https://www.researchgate.net/publication/294421084_Cybersecurityrisks_vulnerabilities_and_countermeasures_to_prevent_social_engineering_attacks"
 type= "text/html" 
-description= "Artículo original del que se extrajo la información" />
+description= "Artículo original del que se extrajo la información"/>
 </item>
 
 <item>
@@ -48,7 +48,7 @@ Artículo sobre los ataques y amenazas que hubo en abril de 2025.
 <enclosure
 url= "https://cybersecuritynews.es/resumen-amenazas-abril-2025/"
 type= "text/html" 
-description= "Artículo original del que se extrajo la información" />
+description= "Artículo original del que se extrajo la información"/>
 </item>
 
 <item>
@@ -64,7 +64,7 @@ creía inactivo desde 2022.
 <enclosure
 url= "https://www.welivesecurity.com/es/investigaciones/famoussparrow-sparrowdoor-shadowpad-ataques-mexico-eeuu/"
 type= "text/html" 
-description= "Artículo original del que se extrajo la información" />
+description= "Artículo original del que se extrajo la información"/>
 </item>
 
 <item>
@@ -79,7 +79,7 @@ de tipo adversario en el medio (adversary-in-the-middle).
 <enclosure
 url= "https://www.welivesecurity.com/es/investigaciones/spoofing-slaac-adversary-in-the-middle-apt-thewizards/"
 type= "text/html" 
-description= "Artículo original del que se extrajo la información" />
+description= "Artículo original del que se extrajo la información"/>
 </item>
 
 </channel>
