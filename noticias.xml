@@ -2,20 +2,84 @@
 <rss version=”2.0″>
 <channel>
 
-<title>InfoTech</title>
+<title>InfoSecurity</title>
 <link>https://github.com/Angeeloos/noticias.git</link>
-<description>Mi descripción</description>
-<copyright>By ....<copyright>
+<description>Canal de noticias para fomentar fomentar la ciberseguridad</description>
+<copyright>By: Ángel López Loaiza<copyright>
 
 <item>
+<title>Artículo 1 – ¿Cómo prevenir un ciberataque?</title>
+<link>https://www.kio.tech/articulos/cybersecurity/1705</link>
+<description>
+Artículo sobre los pasos que hay que seguir y recomendaciones
+para prevenir ciberataques tanto a nivel empresarial como a nivel
+personal.
+</description>
+<author>Nabie Conteh y Paul Schmick</author>
+<pubDate>2016-02-23</pubDate>
+<enclosure
+url= "https://www.researchgate.net/publication/294421084_Cybersecurityrisks_vulnerabilities_and_countermeasures_to_prevent_social_engineering_attacks"
+type= "text/html" 
+description= "Artículo original del que se extrajo la información" />
+</item>
 
-<title>Artículo 1 – Bienvenida</title>
-<link>Enlace al artículo</link>
-<description>Descripción del artículo</description>
-<author>Nombre dle autor</author>
-<pubDate>Fecha de publicación</pubDate>
-<enclosure url=”url del podcast” type=”audio/ogg” length=”300″ />
+<item>
+<title>Artículo 2 – HACKER: Tus Datos Valen ORO y Los Estás REGALANDO | TOKIN PRIVACY</title>
+<link>https://www.youtube.com/watch?v=ECyy48okyEU</link>
+<description>
+Podcast sobre cómo proteger la información personal en línea.
+</description>
+<author>B3tter y Tokin Privacy</author>
+<pubDate>2024-10-07</pubDate>
+<enclosure
+url= "https://www.youtube.com/watch?v=ECyy48okyEU"
+type= "video/mp4" 
+length= "1:35:24" />
+</item>
 
+<item>
+<title>Artículo 3 – Resumen amenazas abril 2025</title>
+<link>https://cybersecuritynews.es/resumen-amenazas-abril-2025/</link>
+<description>
+Artículo sobre los ataques y amenazas que hubo en abril de 2025.
+</description>
+<author>Aldana Balmaceda</author>
+<pubDate>2025-05-06</pubDate>
+<enclosure
+url= "https://cybersecuritynews.es/resumen-amenazas-abril-2025/"
+type= "text/html" 
+description= "Artículo original del que se extrajo la información" />
+</item>
+
+<item>
+<title>Artículo 4 – Ataques recientes de FamousSparrow: nuevas versiones de SparrowDoor y uso de ShadowPad</title>
+<link>https://www.welivesecurity.com/es/investigaciones/famoussparrow-sparrowdoor-shadowpad-ataques-mexico-eeuu/</link>
+<description>
+ESET Research descubre nuevas versiones de SparrowDoor y la utilización de ShadowPad
+en ataques recientes en Estados Unidos y México por el grupo APT FamousSparrow, que se
+creía inactivo desde 2022.
+</description>
+<author>Alexandre Côté Cyr</author>
+<pubDate>2025-03-026</pubDate>
+<enclosure
+url= "https://www.welivesecurity.com/es/investigaciones/famoussparrow-sparrowdoor-shadowpad-ataques-mexico-eeuu/"
+type= "text/html" 
+description= "Artículo original del que se extrajo la información" />
+</item>
+
+<item>
+<title>Artículo 5 – El grupo APT TheWizards utiliza spoofing de SLAAC para realizar ataques Adversary in the Middle</title>
+<link>https://www.welivesecurity.com/es/investigaciones/spoofing-slaac-adversary-in-the-middle-apt-thewizards/</link>
+<description>
+Los investigadores de ESET analizaron Spellbinder, una herramienta de movimiento lateral utilizada para realizar ataques
+de tipo adversario en el medio (adversary-in-the-middle).
+</description>
+<author>Facundo Muñoz</author>
+<pubDate>2025-04-30</pubDate>
+<enclosure
+url= "https://www.welivesecurity.com/es/investigaciones/spoofing-slaac-adversary-in-the-middle-apt-thewizards/"
+type= "text/html" 
+description= "Artículo original del que se extrajo la información" />
 </item>
 
 </channel>
