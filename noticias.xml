@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
 
@@ -8,7 +8,7 @@
 <copyright>By: Ángel López Loaiza<copyright>
 
 <item>
-<title>Artículo 1 – ¿Cómo prevenir un ciberataque?</title>
+<title>Artículo 1 | ¿Cómo prevenir un ciberataque?</title>
 <link>https://www.kio.tech/articulos/cybersecurity/1705</link>
 <description>
 Artículo sobre los pasos que hay que seguir y recomendaciones
@@ -24,7 +24,7 @@ description= "Artículo original del que se extrajo la información" />
 </item>
 
 <item>
-<title>Artículo 2 – HACKER: Tus Datos Valen ORO y Los Estás REGALANDO | TOKIN PRIVACY</title>
+<title>Artículo 2 | HACKER: Tus Datos Valen ORO y Los Estás REGALANDO | TOKIN PRIVACY</title>
 <link>https://www.youtube.com/watch?v=ECyy48okyEU</link>
 <description>
 Podcast sobre cómo proteger la información personal en línea.
@@ -38,7 +38,7 @@ length= "1:35:24" />
 </item>
 
 <item>
-<title>Artículo 3 – Resumen amenazas abril 2025</title>
+<title>Artículo 3 | Resumen amenazas abril 2025</title>
 <link>https://cybersecuritynews.es/resumen-amenazas-abril-2025/</link>
 <description>
 Artículo sobre los ataques y amenazas que hubo en abril de 2025.
@@ -52,7 +52,7 @@ description= "Artículo original del que se extrajo la información" />
 </item>
 
 <item>
-<title>Artículo 4 – Ataques recientes de FamousSparrow: nuevas versiones de SparrowDoor y uso de ShadowPad</title>
+<title>Artículo 4 | Ataques recientes de FamousSparrow: nuevas versiones de SparrowDoor y uso de ShadowPad</title>
 <link>https://www.welivesecurity.com/es/investigaciones/famoussparrow-sparrowdoor-shadowpad-ataques-mexico-eeuu/</link>
 <description>
 ESET Research descubre nuevas versiones de SparrowDoor y la utilización de ShadowPad
@@ -68,7 +68,7 @@ description= "Artículo original del que se extrajo la información" />
 </item>
 
 <item>
-<title>Artículo 5 – El grupo APT TheWizards utiliza spoofing de SLAAC para realizar ataques Adversary in the Middle</title>
+<title>Artículo 5 | El grupo APT TheWizards utiliza spoofing de SLAAC para realizar ataques Adversary in the Middle</title>
 <link>https://www.welivesecurity.com/es/investigaciones/spoofing-slaac-adversary-in-the-middle-apt-thewizards/</link>
 <description>
 Los investigadores de ESET analizaron Spellbinder, una herramienta de movimiento lateral utilizada para realizar ataques
