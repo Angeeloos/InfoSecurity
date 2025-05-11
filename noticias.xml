@@ -1,3 +1,22 @@
-<!-- primera linea -->
-<!-- Segunda linea -->
-alo
+<?xml version=”1.0″ encoding=”UTF-8″ ?>
+<rss version=”2.0″>
+<channel>
+
+<title>Mi título</title>
+<link>Enalce</link>
+<description>Mi descripción</description>
+<copyright>By ....<copyright>
+
+<item>
+
+<title>Artículo 1 – Bienvenida</title>
+<link>Enlace al artículo</link>
+<description>Descripción del artículo</description>
+<author>Nombre dle autor</author>
+<pubDate>Fecha de publicación</pubDate>
+<enclosure url=”url del podcast” type=”audio/ogg” length=”300″ />
+
+</item>
+
+</channel>
+</rss>
